@@ -1,2 +1,11 @@
 # robot-car
-This project is of a small car-like robot that can be controlled wirelessly using a remote control. The robot is powered by a small motor and is equipped with wheels and sensors.
+This project introduces the construction of robor car which can be extended to various applications such as self-driving car, remote controlled driving car, AI-powered car and many more.
+
+The require materials are:
+    * 4 dc motors
+    * 4 wheel
+    * lm298 (motor driver)
+    * battery case and batteries (6-12V)
+    * Car Chasis
+    * Connecting wires
+    * Switch
